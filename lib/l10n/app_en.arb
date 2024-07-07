@@ -1,0 +1,12 @@
+{
+    "news_app" : "News App",
+    "pick_your_category_nof_interest" : "Pick your category \nof interest",
+    "categories" : "Categories",
+    "english" : "English",
+    "arabic" : "Arabic",
+    "language":"language",
+    "theme" : "Theme",
+    "light" : "Light",
+    "dark" : "Dark",
+    "settings" : "Settings"
+    }
